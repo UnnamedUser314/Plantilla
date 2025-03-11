@@ -1,0 +1,56 @@
+/* Grid container to align items */
+.grid-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+/* Link styling */
+.listing-link {
+  text-decoration: none;
+  width: 100%;
+  max-width: 400px; 
+}
+
+/* Listing Card */
+.listing {
+  width: 250px;
+  height: 150px; 
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  text-align: center;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+
+  /* Background Image */
+  background-image: url('../../../assets/user-icon.svg'); 
+  background-size: 30%;
+  background-position: bottom;
+  background-repeat: no-repeat;
+}
+
+/* Heading */
+.listing-heading {
+  
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+  margin: 0;
+
+  /* Background Blend */
+  background: #28a745 ;
+  padding: 5px;
+  display: inline-block;
+  border-radius: 8px;
+}
+
+/* Hover Effect */
+.listing:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.15);
+  .listing-heading {
+    background: #012604;
+  }
+}

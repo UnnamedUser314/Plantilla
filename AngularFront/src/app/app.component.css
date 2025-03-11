@@ -1,0 +1,215 @@
+:host {
+  --content-padding: 10px;
+}
+
+html {
+  min-height: 100%;
+  position: relative;
+}
+body {
+  margin: 0;
+  margin-bottom: 40px;
+}
+
+header {
+  display: block;
+  height: 60px;
+  padding: var(--content-padding);
+  box-shadow: 0px 5px 25px var(--shadow-color);
+  background-image: url('../assets/GreenBg.png');
+  background-size: cover;
+}
+
+.content {
+  padding: var(--content-padding);
+}
+
+.brand-logo {
+  margin-top: 20px;
+}
+
+.brand-name {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.logout {
+  padding: 10px 20px;
+  font-size: 16px;
+  text-decoration: none;
+  background-color: #dc3545;
+  color: white;
+  border-radius: 5px;
+  position: absolute;
+  top: 20px;
+  right: 20px;
+}
+
+/* Estilos para el footer */
+.footer {
+  background-color: #000;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  color: white;
+  padding: 30px 40px;
+  margin-top: 200px;
+}
+
+.footer-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  max-width: 1200px;
+  margin: auto;
+}
+
+.footer-logo img {
+  height: 80px;
+}
+
+.footer-info,
+.footer-social,
+.footer-links {
+  text-align: left;
+}
+
+.footer-info p,
+.footer-links a {
+  margin: 5px 0;
+  color: white;
+  text-decoration: none;
+  
+}
+
+.footer-links a {
+  color: #00ff22;
+}
+
+.footer-info a{
+  color: #00ff22;
+}
+
+.footer-links a:hover {
+  text-decoration: underline;
+}
+
+.footer-social a {
+  margin-right: 10px;
+  display: inline-block;
+}
+
+.footer-social img {
+  width: 24px;
+  height: 24px;
+  transition: transform 0.3s;
+}
+
+.footer-social img:hover {
+  transform: scale(1.2);
+}
+
+.footer-logos {
+  display: flex;
+  align-items: center;
+  gap: 10px; /* Espacio entre las imágenes */
+}
+
+.footer-logos img {
+  height: 40px; /* Tamaño más pequeño */
+  width: auto; /* Mantiene la proporción */
+  transition: transform 0.3s;
+}
+
+.footer-logos img:hover {
+  transform: scale(1.1); /* Efecto de zoom al pasar el ratón */
+}
+
+/* Diseño responsivo */
+@media (max-width: 768px) {
+  header {
+    height: auto;
+    padding: 10px 15px;
+  }
+  
+  .brand-name {
+    flex-direction: column;
+    align-items: center;
+    gap: 5px;
+  }
+
+  .brand-logo {
+    height: 50px;
+  }
+
+  h1 {
+    font-size: 1.2em;
+    text-align: center;
+  }
+
+  .footer {
+    padding: 20px;
+    text-align: center;
+  }
+
+  .footer-container {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .footer-social {
+    margin-top: 10px;
+  }
+}
+
+@media (max-width: 480px) {
+  .brand-name {
+    gap: 3px;
+  }
+
+  h1 {
+    font-size: 1em;
+  }
+  
+  .brand-logo {
+    height: 40px;
+  }
+
+  .footer {
+    font-size: 0.9em;
+  }
+
+  .footer-logo img {
+    height: 60px;
+  }
+
+  .footer-social img {
+    width: 20px;
+    height: 20px;
+  }
+}
+
+@media (max-width: 768px) {
+  .footer-logos img {
+    height: 30px;
+  }
+}
+
+@media (max-width: 768px) {
+  .footer-logos img {
+    height: 30px;
+  }
+}
+@media (max-width: 480px) {
+  .footer-logos img {
+    height: 25px;
+  }
+}
+
+
+
+
+
+

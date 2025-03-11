@@ -1,0 +1,98 @@
+﻿<Window x:Class="LoginRegister.View.AddPedidoView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:ui="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:local="clr-namespace:LoginRegister.View"
+        mc:Ignorable="d"
+        Title="AddPedidoView" Height="450" Width="800"
+        Background="Black">
+    <Grid VerticalAlignment="Center" HorizontalAlignment="Center" Height="446" Width="400">
+
+        <!-- Definir las filas del grid para distribuir los elementos -->
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <!-- Para el botón -->
+        </Grid.RowDefinitions>
+
+        <!-- Título -->
+        <TextBlock 
+            Text="Añadir Pedido" 
+            FontSize="28" 
+            FontWeight="SemiBold" 
+            Foreground="White"
+            HorizontalAlignment="Center" 
+            Margin="0,20,0,20" 
+            Grid.Row="0"/>
+
+        <!-- Campo Nombre -->
+        <TextBlock 
+            Text="Fecha"
+            Foreground="White"
+            VerticalAlignment="Center"
+            HorizontalAlignment="Left"
+            Margin="174,0,0,0"
+            FontSize="14" 
+            IsHitTestVisible="False"
+            ui:Grid.Row="1"/>
+
+
+        <DatePicker 
+            SelectedDate="{Binding SelectedDate, Mode=TwoWay}" 
+            Name="myDatePicker" 
+            Width="200" 
+            HorizontalAlignment="Left" 
+            VerticalAlignment="Top" 
+            ui:Grid.RowSpan="4" 
+            ui:Grid.Row="2" 
+            Margin="96,5,0,0"/>
+
+        <TextBlock 
+            Text="Usuario"
+            Foreground="White"
+            VerticalAlignment="Top"
+            HorizontalAlignment="Left"
+            Margin="168,42,0,0"
+            FontSize="14" 
+            IsHitTestVisible="False"
+            ui:Grid.Row="5"/>
+
+        <ui:ListBox ItemsSource="{Binding Items}" 
+                 SelectedItem="{Binding SelectedItem}" HorizontalAlignment="Left" VerticalAlignment="Center" Width="200" Height="150" Margin="92,0,0,0" ui:Grid.Row="5">
+            <ui:ListBox.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock Text="{Binding}" Padding="10" />
+                </DataTemplate>
+            </ui:ListBox.ItemTemplate>
+        </ui:ListBox>
+
+
+
+
+
+        <!-- Botón de Añadir Dictador, ubicado en su propia fila -->
+        <ui:Button 
+            Command="{Binding AddCommand, Mode=OneWay}"
+            Content="Añadir Pedido"
+            Background="Black" 
+            Foreground="White"
+            Width="200" 
+            Height="50" 
+            HorizontalAlignment="Left" 
+            VerticalAlignment="Top" 
+            Grid.Row="5" 
+            Margin="92,231,0,0"
+            FontSize="16">
+            <ui:Button.Effect>
+                <DropShadowEffect Color="Black" Direction="270" BlurRadius="10" ShadowDepth="4"/>
+            </ui:Button.Effect>
+        </ui:Button>
+
+    </Grid>
+</Window>

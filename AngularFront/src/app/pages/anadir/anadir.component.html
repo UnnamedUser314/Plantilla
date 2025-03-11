@@ -1,0 +1,16 @@
+<div class="container" *ngIf="usuario" [class.loaded]="usuario" [ngClass]="{ 'fade-out': isFadingOut }">
+  <button class="back-button" (click)="goBack()">⬅</button>
+  <h1 class="title">Crear Usuario</h1>
+
+  <div class="form-group">
+    <label for="name">Nombre de Usuario:</label>
+    <input id="name" type="text" placeholder="Ingrese el nombre" [(ngModel)]="usuario.nombre" required />
+
+    <label for="email">Email de Usuario:</label>
+    <input id="email" type="email" placeholder="Ingrese el email" [(ngModel)]="usuario.email" required />
+  </div>
+
+  <div class="button-group">
+    <button class="update-button" (click)="crearObjeto()">Crear Usuario</button>
+  </div>
+</div>

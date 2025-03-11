@@ -1,0 +1,71 @@
+﻿<UserControl x:Class="LoginRegister.View.DetallesView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:LoginRegister.View" 
+             xmlns:viewmodel="clr-namespace:LoginRegister.ViewModel"
+             d:DataContext="{d:DesignInstance Type=viewmodel:DetallesViewModel}"
+             mc:Ignorable="d" 
+             d:DesignHeight="500" d:DesignWidth="300"
+            >
+
+    <Grid Margin="15">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <!-- Table -->
+            <RowDefinition Height="Auto"/>
+            <!-- Pagination -->
+            <RowDefinition Height="*"/>
+            <!-- Details & Buttons -->
+        </Grid.RowDefinitions>
+
+        <!-- Data Table -->
+        <DataGrid
+            x:Name="Tabla"
+            ItemsSource="{Binding PagedDicatadores}"
+            SelectedItem="{Binding SelectedElement}"
+            AutoGenerateColumns="False"
+            Margin="5"
+            CanUserResizeColumns="True"
+            CanUserResizeRows="False"
+            ColumnWidth="*"
+            MinRowHeight="30"
+            MaxHeight="300"
+            Grid.Row="0"
+            ScrollViewer.VerticalScrollBarVisibility="Auto"
+            ScrollViewer.HorizontalScrollBarVisibility="Auto">
+
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Nombre" Binding="{Binding Nombre}" Width="*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <!-- Pagination Controls -->
+        <StackPanel Orientation="Horizontal" Grid.Row="1" HorizontalAlignment="Center" Margin="0,10,0,0">
+            <Button Content="⏮ Anterior" Command="{Binding PreviousPageCommand}" Background="DarkSlateGray" Foreground="White" Padding="5" Margin="5"/>
+            <TextBlock Text="{Binding CurrentPage, StringFormat='Página {0}'}" Foreground="White" VerticalAlignment="Center" Margin="10,0"/>
+            <TextBlock Text="/" Foreground="White" VerticalAlignment="Center"/>
+            <TextBlock Text="{Binding TotalPages, StringFormat=' {0}'}" Foreground="White" VerticalAlignment="Center" Margin="10,0"/>
+            <Button Content="Siguiente ⏭" Command="{Binding NextPageCommand}" Background="DarkSlateGray" Foreground="White" Padding="5" Margin="5"/>
+        </StackPanel>
+
+        <!-- Details Panel -->
+        <Border Grid.Row="2" Padding="10" CornerRadius="10" BorderBrush="Gray" BorderThickness="1" Background="White">
+            <StackPanel>
+                <TextBlock Foreground="Black" FontWeight="Bold" FontSize="14" Text="{Binding Dicatador.Id, StringFormat='ID: {0}'}"/>
+                <TextBlock Foreground="Black" FontSize="14" Text="{Binding Dicatador.Name, StringFormat='Nombre: {0}'}"/>
+                <TextBlock Foreground="Black" FontSize="14" Text="{Binding Dicatador.Pais, StringFormat='País: {0}'}"/>
+                <TextBlock Foreground="Black" FontSize="14" Text="{Binding Dicatador.Description, StringFormat='Descripción: {0}'}"/>
+
+                <!-- Action Buttons -->
+                <StackPanel Orientation="Vertical" Margin="10,15,10,10">
+                    <Button Command="{Binding AddProductoCommand}" Content="➕ Agregar Producto" Background="DarkGreen" Foreground="White" Padding="8" Margin="5"/>
+                    <Button Command="{Binding DeleteProductoCommand}" Content="🗑 Eliminar Producto" Background="DarkRed" Foreground="White" Padding="8" Margin="5"/>
+                    <Button Content="❌ Cerrar" Command="{Binding DataContext.CloseCommand, RelativeSource={RelativeSource AncestorType=UserControl}}" Background="Gray" Foreground="White" Padding="8" Margin="5"/>
+                </StackPanel>
+            </StackPanel>
+        </Border>
+
+    </Grid>
+</UserControl>

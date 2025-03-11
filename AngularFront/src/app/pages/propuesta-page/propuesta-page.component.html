@@ -1,0 +1,16 @@
+<div class="container" [ngClass]="{ 'fade-out': isFadingOut }" *ngIf="propuesta" [class.loaded]="propuesta">
+  <button class="back-button" (click)="goBack()">⬅</button>
+  <h1 class="title">Detalles del Usuario</h1>
+
+  <div class="form-group">
+    <label for="name">Nombre de Usuario:</label>
+    <input id="name" type="text" [(ngModel)]="propuesta.nombre" />
+
+    <label for="email">Email de Usuario:</label>
+    <input id="email" type="text" [(ngModel)]="propuesta.email" />
+   
+  </div>
+
+  <button class="update-button" (click)="actualizarPropuesta()">Actualizar</button>
+  <button class="delete-button" (click)="eliminarPropuesta()">Eliminar</button>
+</div>

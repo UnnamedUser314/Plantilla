@@ -1,0 +1,8 @@
+
+
+<div class="listado-objetos">
+  <app-propuesta *ngFor="let obj of porpuestasList" [usuario]="obj"></app-propuesta>
+  <a [routerLink]="'/anadir'" class="add-button">Crear Usuario</a>
+</div>
+
+

@@ -1,0 +1,31 @@
+.add-button {
+  padding: 10px 20px;
+  font-size: 16px;
+  text-decoration: none;
+  background-color: #28a745;
+  color: white;
+  border-radius: 5px;
+  position: fixed; 
+  top: 95px;
+  left: 20px;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  width: auto; 
+  max-width: 200px; 
+  box-sizing: border-box; 
+}
+
+  
+  .add-button:hover {
+    background-color: #218838; 
+  }
+
+  .listado-objetos {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    justify-content: center;
+    padding: 30px;
+  }
+  
