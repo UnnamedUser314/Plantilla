@@ -175,7 +175,7 @@ namespace LoginRegister.ViewModel
                 }
                 pedido.Productos = productsReplace;
                 await _pedidoServiceToApi.PutPedido(pedido);
-                await LoadAsync();
+                App.Current.Services.GetService<MainViewModel>().LoadAsync();
             }
             catch (Exception ex)
             {

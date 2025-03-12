@@ -51,7 +51,12 @@ namespace LoginRegister.ViewModel
             try
             {
                 PedidoDTO pedido = await _pedidoServiceToApi.GetPedidoById(_pedidoId);
-                IEnumerable<ProductoDTO> productos = await _productoServiceToApi.GetProductosByName(productName);
+                IEnumerable<ProductoDTO> productos = await _productoServiceToApi.GetProductosByName(productName) ?? new List<ProductoDTO>();
+
+                if (!productos.Any()) {
+                    MessageBox.Show("Por favor, introduzca un nombre de producto existente");
+                    return;
+                }
 
                 foreach (ProductoDTO producto in productos)
                 {
@@ -62,7 +67,6 @@ namespace LoginRegister.ViewModel
                 App.Current.Windows.OfType<Window>().FirstOrDefault(w => w is AddProductoToPedidoView).Close();
                 App.Current.Services.GetService<MainViewModel>().LoadAsync();
                 
-
             }
             catch (Exception ex)
             {

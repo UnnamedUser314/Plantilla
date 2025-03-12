@@ -10,7 +10,7 @@ import { UsuarioModel } from '../models/usuario-model';
 export class ObjetoService {
   readonly baseUrl = 'https://localhost:7016/api/Usuario';
 
-  constructor() {}
+  constructor() { }
 
   private getAuthHeaders(): { [key: string]: string } {
     const token = localStorage.getItem('token');
@@ -61,16 +61,34 @@ export class ObjetoService {
       body: JSON.stringify(product)
     });
 
-    return await response.json();
+    if (!response.ok) {
+     
+      const errorText = await response.text();
+      console.error("API error response:", errorText);
+
+      try {
+        
+        const errorJson = JSON.parse(errorText);
+        throw new Error(errorJson.error || "Error desconocido en la API");
+      } catch {
+        throw new Error(errorText || "Error desconocido");
+      }
+    }
+
+    try {
+      return await response.json(); 
+    } catch {
+      throw new Error("La respuesta del servidor no es JSON válido");
+    }
   }
-  
+
   async deleteProduct(id: number): Promise<boolean> {
     const response = await fetch(`${this.baseUrl}/${id}`, {
       method: "DELETE",
       headers: this.getAuthHeaders()
     });
-  
-    return response.ok; 
+
+    return response.ok;
   }
-  
+
 }

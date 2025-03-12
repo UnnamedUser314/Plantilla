@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\study\\FP\\Plantilla\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BD84D5E7-D56C-433D-9F3F-EE7EF1B570C0}|RestAPI\\RestAPI.csproj|c:\\study\\fp\\plantilla\\restapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD84D5E7-D56C-433D-9F3F-EE7EF1B570C0}|RestAPI\\RestAPI.csproj|solutionrelative:restapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD84D5E7-D56C-433D-9F3F-EE7EF1B570C0}|RestAPI\\RestAPI.csproj|c:\\study\\fp\\plantilla\\restapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD84D5E7-D56C-433D-9F3F-EE7EF1B570C0}|RestAPI\\RestAPI.csproj|solutionrelative:restapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD84D5E7-D56C-433D-9F3F-EE7EF1B570C0}|RestAPI\\RestAPI.csproj|c:\\study\\fp\\plantilla\\restapi\\repository\\irepository\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD84D5E7-D56C-433D-9F3F-EE7EF1B570C0}|RestAPI\\RestAPI.csproj|solutionrelative:restapi\\repository\\irepository\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD84D5E7-D56C-433D-9F3F-EE7EF1B570C0}|RestAPI\\RestAPI.csproj|c:\\study\\fp\\plantilla\\restapi\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD84D5E7-D56C-433D-9F3F-EE7EF1B570C0}|RestAPI\\RestAPI.csproj|solutionrelative:restapi\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BD84D5E7-D56C-433D-9F3F-EE7EF1B570C0}|RestAPI\\RestAPI.csproj|c:\\study\\fp\\plantilla\\restapi\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD84D5E7-D56C-433D-9F3F-EE7EF1B570C0}|RestAPI\\RestAPI.csproj|solutionrelative:restapi\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,24 +31,8 @@
       "RelativeMoniker": "D:0:0:{BD84D5E7-D56C-433D-9F3F-EE7EF1B570C0}|RestAPI\\RestAPI.csproj|solutionrelative:restapi\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD84D5E7-D56C-433D-9F3F-EE7EF1B570C0}|RestAPI\\RestAPI.csproj|c:\\study\\fp\\plantilla\\restapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD84D5E7-D56C-433D-9F3F-EE7EF1B570C0}|RestAPI\\RestAPI.csproj|solutionrelative:restapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BD84D5E7-D56C-433D-9F3F-EE7EF1B570C0}|RestAPI\\RestAPI.csproj|c:\\study\\fp\\plantilla\\restapi\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD84D5E7-D56C-433D-9F3F-EE7EF1B570C0}|RestAPI\\RestAPI.csproj|solutionrelative:restapi\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD84D5E7-D56C-433D-9F3F-EE7EF1B570C0}|RestAPI\\RestAPI.csproj|c:\\study\\fp\\plantilla\\restapi\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD84D5E7-D56C-433D-9F3F-EE7EF1B570C0}|RestAPI\\RestAPI.csproj|solutionrelative:restapi\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD84D5E7-D56C-433D-9F3F-EE7EF1B570C0}|RestAPI\\RestAPI.csproj|c:\\study\\fp\\plantilla\\restapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD84D5E7-D56C-433D-9F3F-EE7EF1B570C0}|RestAPI\\RestAPI.csproj|solutionrelative:restapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD84D5E7-D56C-433D-9F3F-EE7EF1B570C0}|RestAPI\\RestAPI.csproj|c:\\study\\fp\\plantilla\\restapi\\repository\\irepository\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD84D5E7-D56C-433D-9F3F-EE7EF1B570C0}|RestAPI\\RestAPI.csproj|solutionrelative:restapi\\repository\\irepository\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BD84D5E7-D56C-433D-9F3F-EE7EF1B570C0}|RestAPI\\RestAPI.csproj|c:\\study\\fp\\plantilla\\restapi\\repository\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -174,11 +174,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "PedidoController.cs",
               "DocumentMoniker": "C:\\study\\FP\\Plantilla\\RestAPI\\Controllers\\PedidoController.cs",
               "RelativeDocumentMoniker": "RestAPI\\Controllers\\PedidoController.cs",
@@ -191,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "BaseController.cs",
               "DocumentMoniker": "C:\\study\\FP\\Plantilla\\RestAPI\\Controllers\\BaseController.cs",
               "RelativeDocumentMoniker": "RestAPI\\Controllers\\BaseController.cs",
@@ -199,24 +199,24 @@
               "RelativeToolTip": "RestAPI\\Controllers\\BaseController.cs",
               "ViewState": "AgIAAHAAAAAAAAAAAAAcwHMAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T14:05:42.692Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-09T14:05:42.692Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "UsuarioRepository.cs",
               "DocumentMoniker": "C:\\study\\FP\\Plantilla\\RestAPI\\Repository\\UsuarioRepository.cs",
               "RelativeDocumentMoniker": "RestAPI\\Repository\\UsuarioRepository.cs",
               "ToolTip": "C:\\study\\FP\\Plantilla\\RestAPI\\Repository\\UsuarioRepository.cs",
               "RelativeToolTip": "RestAPI\\Repository\\UsuarioRepository.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAIwEQAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAmwEQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T13:40:57.063Z"
+              "WhenOpened": "2025-03-09T13:40:57.063Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "IUsuarioRepository.cs",
               "DocumentMoniker": "C:\\study\\FP\\Plantilla\\RestAPI\\Repository\\IRepository\\IUsuarioRepository.cs",
               "RelativeDocumentMoniker": "RestAPI\\Repository\\IRepository\\IUsuarioRepository.cs",
@@ -224,11 +224,12 @@
               "RelativeToolTip": "RestAPI\\Repository\\IRepository\\IUsuarioRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T13:40:47.578Z"
+              "WhenOpened": "2025-03-09T13:40:47.578Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "ProductoController.cs",
               "DocumentMoniker": "C:\\study\\FP\\Plantilla\\RestAPI\\Controllers\\ProductoController.cs",
               "RelativeDocumentMoniker": "RestAPI\\Controllers\\ProductoController.cs",
@@ -236,8 +237,7 @@
               "RelativeToolTip": "RestAPI\\Controllers\\ProductoController.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T13:39:30.242Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-09T13:39:30.242Z"
             },
             {
               "$type": "Document",
@@ -253,7 +253,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\study\\FP\\Plantilla\\RestAPI\\Repository\\UserRepository.cs",
               "RelativeDocumentMoniker": "RestAPI\\Repository\\UserRepository.cs",
@@ -265,7 +265,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\study\\FP\\Plantilla\\RestAPI\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "RestAPI\\Controllers\\UserController.cs",
@@ -273,19 +273,21 @@
               "RelativeToolTip": "RestAPI\\Controllers\\UserController.cs",
               "ViewState": "AgIAAC0AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T10:29:53.783Z"
+              "WhenOpened": "2025-03-09T10:29:53.783Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "UsuarioController.cs",
               "DocumentMoniker": "C:\\study\\FP\\Plantilla\\RestAPI\\Controllers\\UsuarioController.cs",
               "RelativeDocumentMoniker": "RestAPI\\Controllers\\UsuarioController.cs",
               "ToolTip": "C:\\study\\FP\\Plantilla\\RestAPI\\Controllers\\UsuarioController.cs",
               "RelativeToolTip": "RestAPI\\Controllers\\UsuarioController.cs",
-              "ViewState": "AgIAAHMAAAAAAAAAAAAcwJYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFsAAAAAAAAAAAA0wGwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T10:29:53.22Z"
+              "WhenOpened": "2025-03-09T10:29:53.22Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

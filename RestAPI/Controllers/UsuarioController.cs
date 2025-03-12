@@ -104,7 +104,8 @@ namespace RestAPI.Controllers
                 await _productoRepository.CreateAsync(entity);
 
                 var dto = _mapper.Map<UsuarioDto>(entity);
-                return CreatedAtRoute($"{ControllerContext.ActionDescriptor.ControllerName}_GeProyectoEntity", new { id = entity.GetHashCode() }, dto);
+                //return CreatedAtRoute($"{ControllerContext.ActionDescriptor.ControllerName}_GeProyectoEntity", new { id = entity.Id }, dto);
+                return Ok(dto);
             }
             catch (Exception ex)
             {
