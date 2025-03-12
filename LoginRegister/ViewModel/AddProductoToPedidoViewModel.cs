@@ -2,6 +2,7 @@
 using CommunityToolkit.Mvvm.Input;
 using LoginRegister.Interface;
 using LoginRegister.Models;
+using LoginRegister.View;
 using Microsoft.Extensions.DependencyInjection;
 using System;
 using System.Collections.Generic;
@@ -58,7 +59,9 @@ namespace LoginRegister.ViewModel
                 }
 
                 await _pedidoServiceToApi.PutPedido(pedido);
+                App.Current.Windows.OfType<Window>().FirstOrDefault(w => w is AddProductoToPedidoView).Close();
                 App.Current.Services.GetService<MainViewModel>().LoadAsync();
+                
 
             }
             catch (Exception ex)

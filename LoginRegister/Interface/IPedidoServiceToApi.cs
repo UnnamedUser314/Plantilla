@@ -15,5 +15,6 @@ namespace LoginRegister.Interface
         Task PostPedido(PedidoDTO dicatador);
 
         Task PutPedido(PedidoDTO dicatador);
+        Task DeletePedido(int id);
     }
 }

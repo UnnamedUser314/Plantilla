@@ -77,3 +77,4 @@ C:\study\FP\Plantilla\LoginRegister\obj\Debug\net8.0-windows\refint\LoginRegiste
 C:\study\FP\Plantilla\LoginRegister\obj\Debug\net8.0-windows\LoginRegister.pdb
 C:\study\FP\Plantilla\LoginRegister\obj\Debug\net8.0-windows\LoginRegister.genruntimeconfig.cache
 C:\study\FP\Plantilla\LoginRegister\obj\Debug\net8.0-windows\ref\LoginRegister.dll
+C:\study\FP\Plantilla\LoginRegister\obj\Debug\net8.0-windows\LoginRegister.sourcelink.json

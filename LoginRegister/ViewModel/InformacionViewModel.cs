@@ -22,6 +22,7 @@ namespace LoginRegister.ViewModel
         private readonly IPedidoServiceToApi _pedidoServiceToApi;
         private readonly DetallesViewModel _detallesViewModel;
         private readonly IStringUtils _stringUtils;
+        private int _pedidoId;
 
         [ObservableProperty]
         private ViewModelBase? _selectedViewModel;
@@ -32,6 +33,11 @@ namespace LoginRegister.ViewModel
             _detallesViewModel = detallesViewModel;
             _stringUtils = stringUtils;
             items = new ObservableCollection<PedidoDTO>();
+        }
+
+        public void SetIdPedido(int id)
+        {
+            _pedidoId = id;
         }
 
         public override async Task LoadAsync()
@@ -51,6 +57,7 @@ namespace LoginRegister.ViewModel
         [RelayCommand]
         private async Task SelectViewModel(object? parameter)
         {
+            SetIdPedido(_stringUtils.ConvertToInteger(parameter?.ToString() ?? string.Empty) ?? int.MinValue);
             _detallesViewModel.SetIdDicatador(_stringUtils.ConvertToInteger(parameter?.ToString() ?? string.Empty) ?? int.MinValue);
             _detallesViewModel.SetParentViewModel(this);
             SelectedViewModel = _detallesViewModel;
@@ -65,6 +72,18 @@ namespace LoginRegister.ViewModel
             var addDicatadorViewModel = App.Current.Services.GetService<AddPedidoViewModel>();
             addDicatadorWindow.DataContext = addDicatadorViewModel;
             addDicatadorWindow.ShowDialog();
+            await LoadAsync();
+        }
+
+        [RelayCommand]
+        public async Task DeletePedido()
+        {
+            //var addDicatadorWindow = new AddPedidoView();
+
+            //var addDicatadorViewModel = App.Current.Services.GetService<AddPedidoViewModel>();
+            //addDicatadorWindow.DataContext = addDicatadorViewModel;
+            //addDicatadorWindow.ShowDialog();
+            await _pedidoServiceToApi.DeletePedido(this._pedidoId);
             await LoadAsync();
         }
     }

@@ -62,5 +62,17 @@ namespace LoginRegister.Service
                 Console.WriteLine(ex.Message);
             }
         }
+
+        public async Task DeletePedido(int pedidoIndex)
+        {
+            try
+            {
+                var response = await _httpJsonProvider.Delete(Constants.PEDIDO_URL + "/", pedidoIndex);
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+        }
     }
 }

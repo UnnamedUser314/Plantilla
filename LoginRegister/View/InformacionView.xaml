@@ -8,7 +8,7 @@
              xmlns:view="clr-namespace:LoginRegister.View"
              d:DataContext="{d:DesignInstance Type=viewmodel:InformacionViewModel}"
              mc:Ignorable="d" 
-             Height="auto" Width="auto"
+             Height="500" Width="800"
              >
 
     <UserControl.Resources>
@@ -45,6 +45,8 @@
             HorizontalAlignment="Left"
             VerticalAlignment="Center"
             Margin="10" />
+
+        <Button Command="{Binding DeletePedidoCommand}" Content="🗑 Eliminar Pedido" Background="DarkRed" Width="180" Height="40" Foreground="White" Padding="8" Margin="214,10,56,10"/>
 
         <!-- Scrollable List of Pedidos -->
         <ScrollViewer Grid.Row="1" Padding="5">

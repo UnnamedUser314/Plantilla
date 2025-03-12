@@ -10,12 +10,11 @@
     mc:Ignorable="d"
     Height="auto" Width="auto">
 
-    <!-- Background Image -->
+   
     <UserControl.Background>
         <ImageBrush ImageSource="/Resources/GreenBG.png" Stretch="UniformToFill" />
     </UserControl.Background>
 
-    <!-- Centered Form -->
     <Grid VerticalAlignment="Center" HorizontalAlignment="Center">
 
         <Border
@@ -28,9 +27,9 @@
             HorizontalAlignment="Center"
             Opacity="0.95">
 
-            <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
 
-                <!-- Title -->
+            <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+    
                 <TextBlock 
                     Text="Registro de Usuario" 
                     FontSize="26" 
@@ -39,7 +38,7 @@
                     HorizontalAlignment="Center" 
                     Margin="0,0,0,20"/>
 
-                <!-- Nombre Completo -->
+          
                 <TextBlock Text="Nombre Completo" Foreground="Black" FontSize="14" Margin="5,0"/>
                 <ui:TextBox 
                     Width="280"
@@ -51,7 +50,7 @@
                     FontSize="14"
                     Text="{Binding Name, Mode=TwoWay}" />
 
-                <!-- Nombre de Usuario -->
+            
                 <TextBlock Text="Nombre de Usuario" Foreground="Black" FontSize="14" Margin="5,10,5,0"/>
                 <ui:TextBox 
                     Width="280"
@@ -63,7 +62,7 @@
                     FontSize="14"
                     Text="{Binding UserName, Mode=TwoWay}" />
 
-                <!-- Correo Electrónico -->
+           
                 <TextBlock Text="Correo Electrónico" Foreground="Black" FontSize="14" Margin="5,10,5,0"/>
                 <ui:TextBox 
                     Width="280"
@@ -75,7 +74,7 @@
                     FontSize="14"
                     Text="{Binding Email, Mode=TwoWay}" />
 
-                <!-- Contraseña -->
+              
                 <TextBlock Text="Contraseña" Foreground="Black" FontSize="14" Margin="5,10,5,0"/>
                 <ui:PasswordBox 
                     Width="280"
@@ -87,13 +86,25 @@
                     FontSize="14"
                     Password="{Binding Password, Mode=TwoWay}" />
 
-                <!-- Register Button -->
+               
                 <ui:Button 
                     Command="{Binding RegistroCommand}"
                     Content="Registrarse"
                     Width="280"
                     Height="40"
-                    Background="#4A90E2"
+                    Background="#67BF6A"
+                    Foreground="White"
+                    FontWeight="Bold"
+                    CornerRadius="10"
+                    HorizontalAlignment="Center"
+                    Margin="0,20,0,0"/>
+
+                <ui:Button 
+                    Command="{Binding VolverCommand}"
+                    Content="Volver al Login"
+                    Width="280"
+                    Height="40"
+                    Background="#012604"
                     Foreground="White"
                     FontWeight="Bold"
                     CornerRadius="10"

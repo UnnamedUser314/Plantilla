@@ -68,6 +68,14 @@ namespace LoginRegister.ViewModel
                 MessageBox.Show($"Ocurrió un error durante el registro: {ex.Message}", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
             }
         }
+
+        [RelayCommand]
+        private async void Volver()
+        {
+
+            var mainWindow = App.Current.Services.GetService<MainViewModel>();
+            mainWindow.SelectedViewModel = App.Current.Services.GetService<MainViewModel>().LoginViewModel;
+        }
     }
 }
 

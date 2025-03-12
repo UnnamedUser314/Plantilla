@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\study\\FP\\Plantilla\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BD84D5E7-D56C-433D-9F3F-EE7EF1B570C0}|RestAPI\\RestAPI.csproj|c:\\study\\fp\\plantilla\\restapi\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD84D5E7-D56C-433D-9F3F-EE7EF1B570C0}|RestAPI\\RestAPI.csproj|solutionrelative:restapi\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD84D5E7-D56C-433D-9F3F-EE7EF1B570C0}|RestAPI\\RestAPI.csproj|c:\\study\\fp\\plantilla\\restapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD84D5E7-D56C-433D-9F3F-EE7EF1B570C0}|RestAPI\\RestAPI.csproj|solutionrelative:restapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BD84D5E7-D56C-433D-9F3F-EE7EF1B570C0}|RestAPI\\RestAPI.csproj|c:\\study\\fp\\plantilla\\restapi\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD84D5E7-D56C-433D-9F3F-EE7EF1B570C0}|RestAPI\\RestAPI.csproj|solutionrelative:restapi\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BD84D5E7-D56C-433D-9F3F-EE7EF1B570C0}|RestAPI\\RestAPI.csproj|c:\\study\\fp\\plantilla\\restapi\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD84D5E7-D56C-433D-9F3F-EE7EF1B570C0}|RestAPI\\RestAPI.csproj|solutionrelative:restapi\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD84D5E7-D56C-433D-9F3F-EE7EF1B570C0}|RestAPI\\RestAPI.csproj|c:\\study\\fp\\plantilla\\restapi\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD84D5E7-D56C-433D-9F3F-EE7EF1B570C0}|RestAPI\\RestAPI.csproj|solutionrelative:restapi\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD84D5E7-D56C-433D-9F3F-EE7EF1B570C0}|RestAPI\\RestAPI.csproj|c:\\study\\fp\\plantilla\\restapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD84D5E7-D56C-433D-9F3F-EE7EF1B570C0}|RestAPI\\RestAPI.csproj|solutionrelative:restapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BD84D5E7-D56C-433D-9F3F-EE7EF1B570C0}|RestAPI\\RestAPI.csproj|c:\\study\\fp\\plantilla\\restapi\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -174,23 +174,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "PedidoController.cs",
               "DocumentMoniker": "C:\\study\\FP\\Plantilla\\RestAPI\\Controllers\\PedidoController.cs",
               "RelativeDocumentMoniker": "RestAPI\\Controllers\\PedidoController.cs",
               "ToolTip": "C:\\study\\FP\\Plantilla\\RestAPI\\Controllers\\PedidoController.cs",
               "RelativeToolTip": "RestAPI\\Controllers\\PedidoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T11:49:08.035Z"
+              "WhenOpened": "2025-03-10T11:49:08.035Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "BaseController.cs",
               "DocumentMoniker": "C:\\study\\FP\\Plantilla\\RestAPI\\Controllers\\BaseController.cs",
               "RelativeDocumentMoniker": "RestAPI\\Controllers\\BaseController.cs",
@@ -227,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "ProductoController.cs",
               "DocumentMoniker": "C:\\study\\FP\\Plantilla\\RestAPI\\Controllers\\ProductoController.cs",
               "RelativeDocumentMoniker": "RestAPI\\Controllers\\ProductoController.cs",
@@ -235,7 +236,8 @@
               "RelativeToolTip": "RestAPI\\Controllers\\ProductoController.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T13:39:30.242Z"
+              "WhenOpened": "2025-03-09T13:39:30.242Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -275,7 +277,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "UsuarioController.cs",
               "DocumentMoniker": "C:\\study\\FP\\Plantilla\\RestAPI\\Controllers\\UsuarioController.cs",
               "RelativeDocumentMoniker": "RestAPI\\Controllers\\UsuarioController.cs",
