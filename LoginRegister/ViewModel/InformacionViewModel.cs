@@ -78,11 +78,6 @@ namespace LoginRegister.ViewModel
         [RelayCommand]
         public async Task DeletePedido()
         {
-            //var addDicatadorWindow = new AddPedidoView();
-
-            //var addDicatadorViewModel = App.Current.Services.GetService<AddPedidoViewModel>();
-            //addDicatadorWindow.DataContext = addDicatadorViewModel;
-            //addDicatadorWindow.ShowDialog();
             await _pedidoServiceToApi.DeletePedido(this._pedidoId);
             await LoadAsync();
         }

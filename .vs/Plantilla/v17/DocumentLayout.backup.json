@@ -3,32 +3,20 @@
   "WorkspaceRootPath": "C:\\study\\FP\\Plantilla\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1862C62F-3A96-42E5-9C08-7323B41B89E8}|LoginRegister\\LoginRegister.csproj|c:\\study\\fp\\plantilla\\loginregister\\viewmodel\\detallesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1862C62F-3A96-42E5-9C08-7323B41B89E8}|LoginRegister\\LoginRegister.csproj|solutionrelative:loginregister\\viewmodel\\detallesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BD84D5E7-D56C-433D-9F3F-EE7EF1B570C0}|RestAPI\\RestAPI.csproj|c:\\study\\fp\\plantilla\\restapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD84D5E7-D56C-433D-9F3F-EE7EF1B570C0}|RestAPI\\RestAPI.csproj|solutionrelative:restapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1862C62F-3A96-42E5-9C08-7323B41B89E8}|LoginRegister\\LoginRegister.csproj|c:\\study\\fp\\plantilla\\loginregister\\viewmodel\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1862C62F-3A96-42E5-9C08-7323B41B89E8}|LoginRegister\\LoginRegister.csproj|solutionrelative:loginregister\\viewmodel\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BD84D5E7-D56C-433D-9F3F-EE7EF1B570C0}|RestAPI\\RestAPI.csproj|c:\\study\\fp\\plantilla\\restapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD84D5E7-D56C-433D-9F3F-EE7EF1B570C0}|RestAPI\\RestAPI.csproj|solutionrelative:restapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1862C62F-3A96-42E5-9C08-7323B41B89E8}|LoginRegister\\LoginRegister.csproj|c:\\study\\fp\\plantilla\\loginregister\\viewmodel\\addproductotopedidoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1862C62F-3A96-42E5-9C08-7323B41B89E8}|LoginRegister\\LoginRegister.csproj|solutionrelative:loginregister\\viewmodel\\addproductotopedidoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BD84D5E7-D56C-433D-9F3F-EE7EF1B570C0}|RestAPI\\RestAPI.csproj|c:\\study\\fp\\plantilla\\restapi\\repository\\irepository\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD84D5E7-D56C-433D-9F3F-EE7EF1B570C0}|RestAPI\\RestAPI.csproj|solutionrelative:restapi\\repository\\irepository\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1862C62F-3A96-42E5-9C08-7323B41B89E8}|LoginRegister\\LoginRegister.csproj|c:\\study\\fp\\plantilla\\loginregister\\service\\productoservicetoapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1862C62F-3A96-42E5-9C08-7323B41B89E8}|LoginRegister\\LoginRegister.csproj|solutionrelative:loginregister\\service\\productoservicetoapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1862C62F-3A96-42E5-9C08-7323B41B89E8}|LoginRegister\\LoginRegister.csproj|c:\\study\\fp\\plantilla\\loginregister\\service\\httpjsonclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1862C62F-3A96-42E5-9C08-7323B41B89E8}|LoginRegister\\LoginRegister.csproj|solutionrelative:loginregister\\service\\httpjsonclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1862C62F-3A96-42E5-9C08-7323B41B89E8}|LoginRegister\\LoginRegister.csproj|c:\\study\\fp\\plantilla\\loginregister\\viewmodel\\informacionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1862C62F-3A96-42E5-9C08-7323B41B89E8}|LoginRegister\\LoginRegister.csproj|solutionrelative:loginregister\\viewmodel\\informacionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1862C62F-3A96-42E5-9C08-7323B41B89E8}|LoginRegister\\LoginRegister.csproj|c:\\study\\fp\\plantilla\\loginregister\\view\\detallesview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{1862C62F-3A96-42E5-9C08-7323B41B89E8}|LoginRegister\\LoginRegister.csproj|solutionrelative:loginregister\\view\\detallesview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{BD84D5E7-D56C-433D-9F3F-EE7EF1B570C0}|RestAPI\\RestAPI.csproj|c:\\study\\fp\\plantilla\\restapi\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD84D5E7-D56C-433D-9F3F-EE7EF1B570C0}|RestAPI\\RestAPI.csproj|solutionrelative:restapi\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BD84D5E7-D56C-433D-9F3F-EE7EF1B570C0}|RestAPI\\RestAPI.csproj|c:\\study\\fp\\plantilla\\restapi\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,24 +31,8 @@
       "RelativeMoniker": "D:0:0:{BD84D5E7-D56C-433D-9F3F-EE7EF1B570C0}|RestAPI\\RestAPI.csproj|solutionrelative:restapi\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD84D5E7-D56C-433D-9F3F-EE7EF1B570C0}|RestAPI\\RestAPI.csproj|c:\\study\\fp\\plantilla\\restapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD84D5E7-D56C-433D-9F3F-EE7EF1B570C0}|RestAPI\\RestAPI.csproj|solutionrelative:restapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BD84D5E7-D56C-433D-9F3F-EE7EF1B570C0}|RestAPI\\RestAPI.csproj|c:\\study\\fp\\plantilla\\restapi\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD84D5E7-D56C-433D-9F3F-EE7EF1B570C0}|RestAPI\\RestAPI.csproj|solutionrelative:restapi\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD84D5E7-D56C-433D-9F3F-EE7EF1B570C0}|RestAPI\\RestAPI.csproj|c:\\study\\fp\\plantilla\\restapi\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD84D5E7-D56C-433D-9F3F-EE7EF1B570C0}|RestAPI\\RestAPI.csproj|solutionrelative:restapi\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD84D5E7-D56C-433D-9F3F-EE7EF1B570C0}|RestAPI\\RestAPI.csproj|c:\\study\\fp\\plantilla\\restapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD84D5E7-D56C-433D-9F3F-EE7EF1B570C0}|RestAPI\\RestAPI.csproj|solutionrelative:restapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD84D5E7-D56C-433D-9F3F-EE7EF1B570C0}|RestAPI\\RestAPI.csproj|c:\\study\\fp\\plantilla\\restapi\\repository\\irepository\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD84D5E7-D56C-433D-9F3F-EE7EF1B570C0}|RestAPI\\RestAPI.csproj|solutionrelative:restapi\\repository\\irepository\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BD84D5E7-D56C-433D-9F3F-EE7EF1B570C0}|RestAPI\\RestAPI.csproj|c:\\study\\fp\\plantilla\\restapi\\repository\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -71,12 +43,36 @@
       "RelativeMoniker": "D:0:0:{BD84D5E7-D56C-433D-9F3F-EE7EF1B570C0}|RestAPI\\RestAPI.csproj|solutionrelative:restapi\\models\\dtos\\userdto\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{1862C62F-3A96-42E5-9C08-7323B41B89E8}|LoginRegister\\LoginRegister.csproj|c:\\study\\fp\\plantilla\\loginregister\\viewmodel\\detallesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1862C62F-3A96-42E5-9C08-7323B41B89E8}|LoginRegister\\LoginRegister.csproj|solutionrelative:loginregister\\viewmodel\\detallesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1862C62F-3A96-42E5-9C08-7323B41B89E8}|LoginRegister\\LoginRegister.csproj|c:\\study\\fp\\plantilla\\loginregister\\service\\pedidoservicetoapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1862C62F-3A96-42E5-9C08-7323B41B89E8}|LoginRegister\\LoginRegister.csproj|solutionrelative:loginregister\\service\\pedidoservicetoapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{1862C62F-3A96-42E5-9C08-7323B41B89E8}|LoginRegister\\LoginRegister.csproj|c:\\study\\fp\\plantilla\\loginregister\\service\\httpjsonclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1862C62F-3A96-42E5-9C08-7323B41B89E8}|LoginRegister\\LoginRegister.csproj|solutionrelative:loginregister\\service\\httpjsonclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1862C62F-3A96-42E5-9C08-7323B41B89E8}|LoginRegister\\LoginRegister.csproj|c:\\study\\fp\\plantilla\\loginregister\\view\\detallesview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1862C62F-3A96-42E5-9C08-7323B41B89E8}|LoginRegister\\LoginRegister.csproj|solutionrelative:loginregister\\view\\detallesview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1862C62F-3A96-42E5-9C08-7323B41B89E8}|LoginRegister\\LoginRegister.csproj|c:\\study\\fp\\plantilla\\loginregister\\view\\dashboardview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{1862C62F-3A96-42E5-9C08-7323B41B89E8}|LoginRegister\\LoginRegister.csproj|solutionrelative:loginregister\\view\\dashboardview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1862C62F-3A96-42E5-9C08-7323B41B89E8}|LoginRegister\\LoginRegister.csproj|c:\\study\\fp\\plantilla\\loginregister\\viewmodel\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1862C62F-3A96-42E5-9C08-7323B41B89E8}|LoginRegister\\LoginRegister.csproj|solutionrelative:loginregister\\viewmodel\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1862C62F-3A96-42E5-9C08-7323B41B89E8}|LoginRegister\\LoginRegister.csproj|c:\\study\\fp\\plantilla\\loginregister\\service\\productoservicetoapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1862C62F-3A96-42E5-9C08-7323B41B89E8}|LoginRegister\\LoginRegister.csproj|solutionrelative:loginregister\\service\\productoservicetoapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1862C62F-3A96-42E5-9C08-7323B41B89E8}|LoginRegister\\LoginRegister.csproj|c:\\study\\fp\\plantilla\\loginregister\\viewmodel\\addproductotopedidoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1862C62F-3A96-42E5-9C08-7323B41B89E8}|LoginRegister\\LoginRegister.csproj|solutionrelative:loginregister\\viewmodel\\addproductotopedidoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1862C62F-3A96-42E5-9C08-7323B41B89E8}|LoginRegister\\LoginRegister.csproj|c:\\study\\fp\\plantilla\\loginregister\\interface\\ihttpjsonprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -105,6 +101,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{1862C62F-3A96-42E5-9C08-7323B41B89E8}|LoginRegister\\LoginRegister.csproj|c:\\study\\fp\\plantilla\\loginregister\\helpers\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1862C62F-3A96-42E5-9C08-7323B41B89E8}|LoginRegister\\LoginRegister.csproj|solutionrelative:loginregister\\helpers\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1862C62F-3A96-42E5-9C08-7323B41B89E8}|LoginRegister\\LoginRegister.csproj|c:\\study\\fp\\plantilla\\loginregister\\viewmodel\\informacionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1862C62F-3A96-42E5-9C08-7323B41B89E8}|LoginRegister\\LoginRegister.csproj|solutionrelative:loginregister\\viewmodel\\informacionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1862C62F-3A96-42E5-9C08-7323B41B89E8}|LoginRegister\\LoginRegister.csproj|c:\\study\\fp\\plantilla\\loginregister\\interface\\ipedidoservicetoapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -174,36 +174,83 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PedidoController.cs",
+              "DocumentMoniker": "C:\\study\\FP\\Plantilla\\RestAPI\\Controllers\\PedidoController.cs",
+              "RelativeDocumentMoniker": "RestAPI\\Controllers\\PedidoController.cs",
+              "ToolTip": "C:\\study\\FP\\Plantilla\\RestAPI\\Controllers\\PedidoController.cs",
+              "RelativeToolTip": "RestAPI\\Controllers\\PedidoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:49:08.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\study\\FP\\Plantilla\\RestAPI\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "RestAPI\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\study\\FP\\Plantilla\\RestAPI\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "RestAPI\\Controllers\\BaseController.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAcwHMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T14:05:42.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\study\\FP\\Plantilla\\RestAPI\\Repository\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "RestAPI\\Repository\\UsuarioRepository.cs",
+              "ToolTip": "C:\\study\\FP\\Plantilla\\RestAPI\\Repository\\UsuarioRepository.cs",
+              "RelativeToolTip": "RestAPI\\Repository\\UsuarioRepository.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAmwEQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T13:40:57.063Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AddProductoToPedidoViewModel.cs",
-              "DocumentMoniker": "C:\\study\\FP\\Plantilla\\LoginRegister\\ViewModel\\AddProductoToPedidoViewModel.cs",
-              "RelativeDocumentMoniker": "LoginRegister\\ViewModel\\AddProductoToPedidoViewModel.cs",
-              "ToolTip": "C:\\study\\FP\\Plantilla\\LoginRegister\\ViewModel\\AddProductoToPedidoViewModel.cs",
-              "RelativeToolTip": "LoginRegister\\ViewModel\\AddProductoToPedidoViewModel.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAjwEMAAAAQAAAAAAAAAA==",
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\study\\FP\\Plantilla\\RestAPI\\Repository\\IRepository\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "RestAPI\\Repository\\IRepository\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\study\\FP\\Plantilla\\RestAPI\\Repository\\IRepository\\IUsuarioRepository.cs",
+              "RelativeToolTip": "RestAPI\\Repository\\IRepository\\IUsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T15:21:24.731Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-09T13:40:47.578Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\study\\FP\\Plantilla\\RestAPI\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "RestAPI\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\study\\FP\\Plantilla\\RestAPI\\Controllers\\UserController.cs",
-              "RelativeToolTip": "RestAPI\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\study\\FP\\Plantilla\\RestAPI\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "RestAPI\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\study\\FP\\Plantilla\\RestAPI\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "RestAPI\\Controllers\\ProductoController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T10:29:53.783Z"
+              "WhenOpened": "2025-03-09T13:39:30.242Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 9,
+              "Title": "UserLoginDto.cs",
+              "DocumentMoniker": "C:\\study\\FP\\Plantilla\\RestAPI\\Models\\DTOs\\UserDto\\UserLoginDto.cs",
+              "RelativeDocumentMoniker": "RestAPI\\Models\\DTOs\\UserDto\\UserLoginDto.cs",
+              "ToolTip": "C:\\study\\FP\\Plantilla\\RestAPI\\Models\\DTOs\\UserDto\\UserLoginDto.cs",
+              "RelativeToolTip": "RestAPI\\Models\\DTOs\\UserDto\\UserLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T10:31:04.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\study\\FP\\Plantilla\\RestAPI\\Repository\\UserRepository.cs",
               "RelativeDocumentMoniker": "RestAPI\\Repository\\UserRepository.cs",
@@ -215,45 +262,128 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\study\\FP\\Plantilla\\RestAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "RestAPI\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\study\\FP\\Plantilla\\RestAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "RestAPI\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T10:29:53.783Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\study\\FP\\Plantilla\\RestAPI\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "RestAPI\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\study\\FP\\Plantilla\\RestAPI\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "RestAPI\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAIwGwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T10:29:53.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductoRepository.cs",
+              "DocumentMoniker": "C:\\study\\FP\\Plantilla\\RestAPI\\Repository\\ProductoRepository.cs",
+              "RelativeDocumentMoniker": "RestAPI\\Repository\\ProductoRepository.cs",
+              "ToolTip": "C:\\study\\FP\\Plantilla\\RestAPI\\Repository\\ProductoRepository.cs",
+              "RelativeToolTip": "RestAPI\\Repository\\ProductoRepository.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAcwE8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T13:41:00.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PedidoDTO.cs",
+              "DocumentMoniker": "C:\\study\\FP\\Plantilla\\LoginRegister\\Models\\PedidoDTO.cs",
+              "RelativeDocumentMoniker": "LoginRegister\\Models\\PedidoDTO.cs",
+              "ToolTip": "C:\\study\\FP\\Plantilla\\LoginRegister\\Models\\PedidoDTO.cs",
+              "RelativeToolTip": "LoginRegister\\Models\\PedidoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T12:06:14.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "DetallesViewModel.cs",
               "DocumentMoniker": "C:\\study\\FP\\Plantilla\\LoginRegister\\ViewModel\\DetallesViewModel.cs",
               "RelativeDocumentMoniker": "LoginRegister\\ViewModel\\DetallesViewModel.cs",
               "ToolTip": "C:\\study\\FP\\Plantilla\\LoginRegister\\ViewModel\\DetallesViewModel.cs",
               "RelativeToolTip": "LoginRegister\\ViewModel\\DetallesViewModel.cs",
-              "ViewState": "AgIAAJgAAAAAAAAAAAAkwK0AAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAIsAAAAAAAAAAIAwwJ0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T14:30:12.934Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-08T14:30:12.934Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DetallesView.xaml",
-              "DocumentMoniker": "C:\\study\\FP\\Plantilla\\LoginRegister\\View\\DetallesView.xaml",
-              "RelativeDocumentMoniker": "LoginRegister\\View\\DetallesView.xaml",
-              "ToolTip": "C:\\study\\FP\\Plantilla\\LoginRegister\\View\\DetallesView.xaml",
-              "RelativeToolTip": "LoginRegister\\View\\DetallesView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-08T14:23:05.806Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "InformacionViewModel.cs",
-              "DocumentMoniker": "C:\\study\\FP\\Plantilla\\LoginRegister\\ViewModel\\InformacionViewModel.cs",
-              "RelativeDocumentMoniker": "LoginRegister\\ViewModel\\InformacionViewModel.cs",
-              "ToolTip": "C:\\study\\FP\\Plantilla\\LoginRegister\\ViewModel\\InformacionViewModel.cs",
-              "RelativeToolTip": "LoginRegister\\ViewModel\\InformacionViewModel.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAwwFYAAAAOAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "PedidoServiceToApi.cs",
+              "DocumentMoniker": "C:\\study\\FP\\Plantilla\\LoginRegister\\Service\\PedidoServiceToApi.cs",
+              "RelativeDocumentMoniker": "LoginRegister\\Service\\PedidoServiceToApi.cs",
+              "ToolTip": "C:\\study\\FP\\Plantilla\\LoginRegister\\Service\\PedidoServiceToApi.cs",
+              "RelativeToolTip": "LoginRegister\\Service\\PedidoServiceToApi.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T12:05:23.058Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-08T12:08:31.314Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 24,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "C:\\study\\FP\\Plantilla\\LoginRegister\\Helpers\\Constants.cs",
+              "RelativeDocumentMoniker": "LoginRegister\\Helpers\\Constants.cs",
+              "ToolTip": "C:\\study\\FP\\Plantilla\\LoginRegister\\Helpers\\Constants.cs",
+              "RelativeToolTip": "LoginRegister\\Helpers\\Constants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T12:01:36.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IProductoServiceToApi.cs",
+              "DocumentMoniker": "C:\\study\\FP\\Plantilla\\LoginRegister\\Interface\\IProductoServiceToApi.cs",
+              "RelativeDocumentMoniker": "LoginRegister\\Interface\\IProductoServiceToApi.cs",
+              "ToolTip": "C:\\study\\FP\\Plantilla\\LoginRegister\\Interface\\IProductoServiceToApi.cs",
+              "RelativeToolTip": "LoginRegister\\Interface\\IProductoServiceToApi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T11:58:54.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductoServiceToApi.cs",
+              "DocumentMoniker": "C:\\study\\FP\\Plantilla\\LoginRegister\\Service\\ProductoServiceToApi.cs",
+              "RelativeDocumentMoniker": "LoginRegister\\Service\\ProductoServiceToApi.cs",
+              "ToolTip": "C:\\study\\FP\\Plantilla\\LoginRegister\\Service\\ProductoServiceToApi.cs",
+              "RelativeToolTip": "LoginRegister\\Service\\ProductoServiceToApi.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIAwwBsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T11:57:39.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IHttpJsonProvider.cs",
+              "DocumentMoniker": "C:\\study\\FP\\Plantilla\\LoginRegister\\Interface\\IHttpJsonProvider.cs",
+              "RelativeDocumentMoniker": "LoginRegister\\Interface\\IHttpJsonProvider.cs",
+              "ToolTip": "C:\\study\\FP\\Plantilla\\LoginRegister\\Interface\\IHttpJsonProvider.cs",
+              "RelativeToolTip": "LoginRegister\\Interface\\IHttpJsonProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T15:25:40.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "DashboardViewModel.cs",
               "DocumentMoniker": "C:\\study\\FP\\Plantilla\\LoginRegister\\ViewModel\\DashboardViewModel.cs",
               "RelativeDocumentMoniker": "LoginRegister\\ViewModel\\DashboardViewModel.cs",
@@ -266,190 +396,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "UserLoginDto.cs",
-              "DocumentMoniker": "C:\\study\\FP\\Plantilla\\RestAPI\\Models\\DTOs\\UserDto\\UserLoginDto.cs",
-              "RelativeDocumentMoniker": "RestAPI\\Models\\DTOs\\UserDto\\UserLoginDto.cs",
-              "ToolTip": "C:\\study\\FP\\Plantilla\\RestAPI\\Models\\DTOs\\UserDto\\UserLoginDto.cs",
-              "RelativeToolTip": "RestAPI\\Models\\DTOs\\UserDto\\UserLoginDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T10:31:04.739Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ProductoController.cs",
-              "DocumentMoniker": "C:\\study\\FP\\Plantilla\\RestAPI\\Controllers\\ProductoController.cs",
-              "RelativeDocumentMoniker": "RestAPI\\Controllers\\ProductoController.cs",
-              "ToolTip": "C:\\study\\FP\\Plantilla\\RestAPI\\Controllers\\ProductoController.cs",
-              "RelativeToolTip": "RestAPI\\Controllers\\ProductoController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T13:39:30.242Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductoServiceToApi.cs",
-              "DocumentMoniker": "C:\\study\\FP\\Plantilla\\LoginRegister\\Service\\ProductoServiceToApi.cs",
-              "RelativeDocumentMoniker": "LoginRegister\\Service\\ProductoServiceToApi.cs",
-              "ToolTip": "C:\\study\\FP\\Plantilla\\LoginRegister\\Service\\ProductoServiceToApi.cs",
-              "RelativeToolTip": "LoginRegister\\Service\\ProductoServiceToApi.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAWwCMAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T11:57:39.066Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "HttpJsonClient.cs",
               "DocumentMoniker": "C:\\study\\FP\\Plantilla\\LoginRegister\\Service\\HttpJsonClient.cs",
               "RelativeDocumentMoniker": "LoginRegister\\Service\\HttpJsonClient.cs",
               "ToolTip": "C:\\study\\FP\\Plantilla\\LoginRegister\\Service\\HttpJsonClient.cs",
               "RelativeToolTip": "LoginRegister\\Service\\HttpJsonClient.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAcwF0AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwEUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T11:05:30.2Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ProductoRepository.cs",
-              "DocumentMoniker": "C:\\study\\FP\\Plantilla\\RestAPI\\Repository\\ProductoRepository.cs",
-              "RelativeDocumentMoniker": "RestAPI\\Repository\\ProductoRepository.cs",
-              "ToolTip": "C:\\study\\FP\\Plantilla\\RestAPI\\Repository\\ProductoRepository.cs",
-              "RelativeToolTip": "RestAPI\\Repository\\ProductoRepository.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAcwE8AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T13:41:00.897Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "UsuarioController.cs",
-              "DocumentMoniker": "C:\\study\\FP\\Plantilla\\RestAPI\\Controllers\\UsuarioController.cs",
-              "RelativeDocumentMoniker": "RestAPI\\Controllers\\UsuarioController.cs",
-              "ToolTip": "C:\\study\\FP\\Plantilla\\RestAPI\\Controllers\\UsuarioController.cs",
-              "RelativeToolTip": "RestAPI\\Controllers\\UsuarioController.cs",
-              "ViewState": "AgIAAHMAAAAAAAAAAAAcwJYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T10:29:53.22Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PedidoController.cs",
-              "DocumentMoniker": "C:\\study\\FP\\Plantilla\\RestAPI\\Controllers\\PedidoController.cs",
-              "RelativeDocumentMoniker": "RestAPI\\Controllers\\PedidoController.cs",
-              "ToolTip": "C:\\study\\FP\\Plantilla\\RestAPI\\Controllers\\PedidoController.cs",
-              "RelativeToolTip": "RestAPI\\Controllers\\PedidoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAiwA4AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T11:49:08.035Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-08T11:05:30.2Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "IUsuarioRepository.cs",
-              "DocumentMoniker": "C:\\study\\FP\\Plantilla\\RestAPI\\Repository\\IRepository\\IUsuarioRepository.cs",
-              "RelativeDocumentMoniker": "RestAPI\\Repository\\IRepository\\IUsuarioRepository.cs",
-              "ToolTip": "C:\\study\\FP\\Plantilla\\RestAPI\\Repository\\IRepository\\IUsuarioRepository.cs",
-              "RelativeToolTip": "RestAPI\\Repository\\IRepository\\IUsuarioRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T13:40:47.578Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "UsuarioRepository.cs",
-              "DocumentMoniker": "C:\\study\\FP\\Plantilla\\RestAPI\\Repository\\UsuarioRepository.cs",
-              "RelativeDocumentMoniker": "RestAPI\\Repository\\UsuarioRepository.cs",
-              "ToolTip": "C:\\study\\FP\\Plantilla\\RestAPI\\Repository\\UsuarioRepository.cs",
-              "RelativeToolTip": "RestAPI\\Repository\\UsuarioRepository.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAIwEQAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T13:40:57.063Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "BaseController.cs",
-              "DocumentMoniker": "C:\\study\\FP\\Plantilla\\RestAPI\\Controllers\\BaseController.cs",
-              "RelativeDocumentMoniker": "RestAPI\\Controllers\\BaseController.cs",
-              "ToolTip": "C:\\study\\FP\\Plantilla\\RestAPI\\Controllers\\BaseController.cs",
-              "RelativeToolTip": "RestAPI\\Controllers\\BaseController.cs",
-              "ViewState": "AgIAAHAAAAAAAAAAAAAcwHMAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T14:05:42.692Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "PedidoDTO.cs",
-              "DocumentMoniker": "C:\\study\\FP\\Plantilla\\LoginRegister\\Models\\PedidoDTO.cs",
-              "RelativeDocumentMoniker": "LoginRegister\\Models\\PedidoDTO.cs",
-              "ToolTip": "C:\\study\\FP\\Plantilla\\LoginRegister\\Models\\PedidoDTO.cs",
-              "RelativeToolTip": "LoginRegister\\Models\\PedidoDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T12:06:14.71Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "PedidoServiceToApi.cs",
-              "DocumentMoniker": "C:\\study\\FP\\Plantilla\\LoginRegister\\Service\\PedidoServiceToApi.cs",
-              "RelativeDocumentMoniker": "LoginRegister\\Service\\PedidoServiceToApi.cs",
-              "ToolTip": "C:\\study\\FP\\Plantilla\\LoginRegister\\Service\\PedidoServiceToApi.cs",
-              "RelativeToolTip": "LoginRegister\\Service\\PedidoServiceToApi.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACUAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T12:08:31.314Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Constants.cs",
-              "DocumentMoniker": "C:\\study\\FP\\Plantilla\\LoginRegister\\Helpers\\Constants.cs",
-              "RelativeDocumentMoniker": "LoginRegister\\Helpers\\Constants.cs",
-              "ToolTip": "C:\\study\\FP\\Plantilla\\LoginRegister\\Helpers\\Constants.cs",
-              "RelativeToolTip": "LoginRegister\\Helpers\\Constants.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T12:01:36.686Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "IProductoServiceToApi.cs",
-              "DocumentMoniker": "C:\\study\\FP\\Plantilla\\LoginRegister\\Interface\\IProductoServiceToApi.cs",
-              "RelativeDocumentMoniker": "LoginRegister\\Interface\\IProductoServiceToApi.cs",
-              "ToolTip": "C:\\study\\FP\\Plantilla\\LoginRegister\\Interface\\IProductoServiceToApi.cs",
-              "RelativeToolTip": "LoginRegister\\Interface\\IProductoServiceToApi.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T11:58:54.15Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "IHttpJsonProvider.cs",
-              "DocumentMoniker": "C:\\study\\FP\\Plantilla\\LoginRegister\\Interface\\IHttpJsonProvider.cs",
-              "RelativeDocumentMoniker": "LoginRegister\\Interface\\IHttpJsonProvider.cs",
-              "ToolTip": "C:\\study\\FP\\Plantilla\\LoginRegister\\Interface\\IHttpJsonProvider.cs",
-              "RelativeToolTip": "LoginRegister\\Interface\\IHttpJsonProvider.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T15:25:40.894Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
               "Title": "DashboardView.xaml",
               "DocumentMoniker": "C:\\study\\FP\\Plantilla\\LoginRegister\\View\\DashboardView.xaml",
               "RelativeDocumentMoniker": "LoginRegister\\View\\DashboardView.xaml",
@@ -460,7 +419,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 13,
+              "Title": "DetallesView.xaml",
+              "DocumentMoniker": "C:\\study\\FP\\Plantilla\\LoginRegister\\View\\DetallesView.xaml",
+              "RelativeDocumentMoniker": "LoginRegister\\View\\DetallesView.xaml",
+              "ToolTip": "C:\\study\\FP\\Plantilla\\LoginRegister\\View\\DetallesView.xaml",
+              "RelativeToolTip": "LoginRegister\\View\\DetallesView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-08T14:23:05.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "UserDTO.cs",
               "DocumentMoniker": "C:\\study\\FP\\Plantilla\\LoginRegister\\Models\\UserDTO.cs",
               "RelativeDocumentMoniker": "LoginRegister\\Models\\UserDTO.cs",
@@ -472,7 +442,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 17,
+              "Title": "AddProductoToPedidoViewModel.cs",
+              "DocumentMoniker": "C:\\study\\FP\\Plantilla\\LoginRegister\\ViewModel\\AddProductoToPedidoViewModel.cs",
+              "RelativeDocumentMoniker": "LoginRegister\\ViewModel\\AddProductoToPedidoViewModel.cs",
+              "ToolTip": "C:\\study\\FP\\Plantilla\\LoginRegister\\ViewModel\\AddProductoToPedidoViewModel.cs",
+              "RelativeToolTip": "LoginRegister\\ViewModel\\AddProductoToPedidoViewModel.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwDQAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T15:21:24.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\study\\FP\\Plantilla\\LoginRegister\\App.xaml.cs",
               "RelativeDocumentMoniker": "LoginRegister\\App.xaml.cs",
@@ -484,7 +466,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
+              "Title": "InformacionViewModel.cs",
+              "DocumentMoniker": "C:\\study\\FP\\Plantilla\\LoginRegister\\ViewModel\\InformacionViewModel.cs",
+              "RelativeDocumentMoniker": "LoginRegister\\ViewModel\\InformacionViewModel.cs",
+              "ToolTip": "C:\\study\\FP\\Plantilla\\LoginRegister\\ViewModel\\InformacionViewModel.cs",
+              "RelativeToolTip": "LoginRegister\\ViewModel\\InformacionViewModel.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAowDEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T12:05:23.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "ProductoDTO.cs",
               "DocumentMoniker": "C:\\study\\FP\\Plantilla\\LoginRegister\\Models\\ProductoDTO.cs",
               "RelativeDocumentMoniker": "LoginRegister\\Models\\ProductoDTO.cs",

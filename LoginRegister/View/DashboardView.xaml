@@ -11,8 +11,8 @@
     ui:Design.Background="{DynamicResource ApplicationBackgroundBrush}"
     ui:Design.Foreground="{DynamicResource TextFillColorPrimaryBrush}"
     mc:Ignorable="d"
-    Width="Auto"
-    Height="Auto"
+    Width="800"
+    Height="500"
     >
 
     <Grid Margin="30" VerticalAlignment="Top">
